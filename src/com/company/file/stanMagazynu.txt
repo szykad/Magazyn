@@ -1,0 +1,55 @@
+
+imie: Szymon nazwisko: Wygański pesel: 5637383910 adres: Mickiewicza dataUrodzenia: 26-07-1953 dataNajmu: 13-04-2019 
+  pomieszczenia: [
+    id: 1 rozmiar: 50.0 składzik: 
+listaSamochodow: [
+       id: 4 nazwa: 'Fiat rozmiar: 7.0 paliwo='benzyna, 
+       id: 5 nazwa: 'Mitsubishi rozmiar: 7.0 paliwo='diesel]
+listaRowerow: [
+      id: 2 nazwa: 'składak rozmiar: 1.0 przerzutki: 5 stan: Złożony, 
+      id: 3 nazwa: 'rower Babci rozmiar: 1.0 przerzutki: 2 stan: Rozłożony]
+listaMotocykli: [
+      id: 0 nazwa: 'honda rozmiar: 2.0 homologacja=true, 
+      id: 1 nazwa: 'suzuki rozmiar: 3.0 homologacja=false], 
+    id: 6 rozmiar: 2993.65 składzik: 
+listaSamochodow: []
+listaRowerow: []
+listaMotocykli: []]
+
+imie: Marek nazwisko: Kazubs pesel: 19345978919 adres: Piekna dataUrodzenia: 13-01-1970 dataNajmu: 14-04-2013 
+  pomieszczenia: [
+    id: 2 rozmiar: 40.0 składzik: 
+listaSamochodow: [
+       id: 4 nazwa: 'Fiat rozmiar: 7.0 paliwo='benzyna, 
+       id: 5 nazwa: 'Mitsubishi rozmiar: 7.0 paliwo='diesel]
+listaRowerow: [
+      id: 2 nazwa: 'składak rozmiar: 1.0 przerzutki: 5 stan: Złożony, 
+      id: 3 nazwa: 'rower Babci rozmiar: 1.0 przerzutki: 2 stan: Rozłożony]
+listaMotocykli: []]
+
+imie: Sławomir nazwisko: Lemisz pesel: 92365676910 adres: Pogodna dataUrodzenia: 22-07-1955 dataNajmu: 18-10-2010 
+  pomieszczenia: [
+    id: 3 rozmiar: 30.0 składzik: 
+listaSamochodow: [
+       id: 4 nazwa: 'Fiat rozmiar: 7.0 paliwo='benzyna, 
+       id: 5 nazwa: 'Mitsubishi rozmiar: 7.0 paliwo='diesel]
+listaRowerow: [
+      id: 2 nazwa: 'składak rozmiar: 1.0 przerzutki: 5 stan: Złożony, 
+      id: 3 nazwa: 'rower Babci rozmiar: 1.0 przerzutki: 2 stan: Rozłożony]
+listaMotocykli: []]
+
+imie: Mateusz nazwisko: Pakusz pesel: 12345674914 adres: Bezu dataUrodzenia: 01-10-1971 dataNajmu: 26-02-2009 
+  pomieszczenia: [
+    id: 4 rozmiar: 20.0 składzik: 
+listaSamochodow: [
+       id: 4 nazwa: 'Fiat rozmiar: 7.0 paliwo='benzyna, 
+       id: 5 nazwa: 'Mitsubishi rozmiar: 7.0 paliwo='diesel]
+listaRowerow: []
+listaMotocykli: []]
+
+imie: Andrzej nazwisko: Loloo pesel: 894984488 adres: Kołataja dataUrodzenia: 16-11-1960 dataNajmu: 21-06-2016 
+  pomieszczenia: [
+    id: 5 rozmiar: 10.0 składzik: 
+listaSamochodow: []
+listaRowerow: []
+listaMotocykli: []]
